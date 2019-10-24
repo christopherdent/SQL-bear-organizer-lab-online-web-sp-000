@@ -1,4 +1,5 @@
-INSERT INTO bears (name, age, breed, net_worth) VALUES ("Maru", 3, "Scottish Fold", 1000000);
-INSERT INTO bears (name, age, breed, net_worth) VALUES ("Hana", 1, "Tabby", 21000);
-INSERT INTO bears (name, age, breed, net_worth) VALUES ("Grumpy Cat", 4, "Persian", 181800);
-INSERT INTO bears (name, age, breed, net_worth) VALUES ("Lil' Bub", 2, "Tortoiseshell", 3000000);
+INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES (1, "Mr. Chocolate", 3, "male", "brown", "aggressive", true);
+
+INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES (2, "Rowdy", 3, "male", "brown", "aggressive", true);
+
+INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES (3, "Tabitha", 3, "male", "brown", "aggressive", true);
